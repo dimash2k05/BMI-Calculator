@@ -1,0 +1,37 @@
+.main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.text-container {
+    background-color: white;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    background-color: #043b5c;
+    margin-bottom: 30px;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+}
+
+button, .btn {
+    background-color: #043b5c;
+    color: #fff;
+}
+
+button:hover, button:focus, .btn:hover, .btn:focus {
+    background-color: #031f39;
+}

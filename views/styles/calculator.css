@@ -1,0 +1,106 @@
+.main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.navbar {
+    background-color: #043b5c;
+    margin-bottom: 30px;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-container {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    padding: 50px;
+    margin-bottom: 20px;
+}
+
+th, td {
+    text-align: center;
+    padding: 2px;  
+    border: 1px solid black;
+    
+}
+
+th {
+    background-color: #043b5c;
+    color:#ffffff;
+    width: 150px;
+}
+
+tr:nth-child(odd) {
+    background-color: #D6EEEE;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+}
+
+button, .btn {
+    background-color: #043b5c;
+    color: #fff;
+}
+
+button:hover, button:focus, .btn:hover, .btn:focus {
+    background-color: #031f39;
+}
+
+.table-container {
+    display:flex;
+}
+
+.left-table {
+    float:right;
+    padding:20px;
+    width: 50%;
+}
+
+.right-table {
+    float:left;
+    padding:20px;
+    width:50%;
+}
+
+.mt-5 {
+    padding:20px;
+}
+
+.result {
+    padding:20px;
+}
+
+.advertisement {
+    border: 2px solid black;
+    color:white;
+    margin: 20px;
+    padding: 20px;
+    width: 250px;
+    background-image: url(../images/googleplayback.jpg);
+    background-size: cover;
+}
+
+.advertisement2 {
+    border: 2px solid black;
+    color:white;
+    margin: 20px;
+    padding: 20px;
+    width: 250px;
+    background-color: #6441a5;
+}
+
+.text-center {
+    text-align: center;
+}

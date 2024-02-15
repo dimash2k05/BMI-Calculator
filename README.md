@@ -2,7 +2,7 @@
 
 This is a simple web application for calculating Body Mass Index (BMI). It uses Node.js with Express for server-side functionality and basic HTML, CSS, Bootstrap for the user interface.
 
-## Running the Application
+# Running the Application
     1. Navigate to the project directory:
      ```
      cd webbackass1
@@ -15,7 +15,7 @@ This is a simple web application for calculating Body Mass Index (BMI). It uses 
      ```
      http://localhost:3000/home.html
      ```
-## Dependencies
+# Dependencies
 
 The application relies on the following npm packages:
     - express: Fast, unopinionated, minimalist web framework for Node.js.
